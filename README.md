@@ -23,7 +23,7 @@ We have created a table showing employee ID number, birthday, first name, last n
 
 • If the client is looking to retain much of it's experience to train the incoming hires and promotions, they may want to look into expanding this pool, as a team of 1,548 training for that many new positions means each mentor is responsible for over 58 new positions. This does not sound like a part time job, as described by the client.
 
-![mentorship_eligibility](mentorship_eligibility.PNG)
+![mentorship_eligibility](mentor_eligibility.PNG)
 
 ## Summary
 
